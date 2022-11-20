@@ -1,4 +1,4 @@
-// ~/src/point.rs
+use crate::direction::Direction;
 
 #[derive(Debug, Copy, Clone, Hash, Eq, PartialEq)]
 pub struct Point {
