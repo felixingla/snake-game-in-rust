@@ -1,2 +1,3 @@
-# snake-game-in-rust
-A snake game in Rust
+# A snake game in Rust
+
+A snake game in Rust which you can play from the terminal
